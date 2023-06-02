@@ -3,4 +3,4 @@ This project is able to do research starting from what you want to look for. Jus
 
 !!IMPORTANT!!
 BEFORE USING THE PROJECT YOU MUST OPEN THE COMMAND PROMPT AND WRITE:
-```python pip install pynput```
+```pip install pynput```
