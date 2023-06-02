@@ -5,7 +5,7 @@ keyboard = Controller()
 def split(words):
         return [char for char in words]
 print(" ")
-print("AUTOSRC by parieeeh")
+print("AUTOSRC by gparietti")
 print(" ")
 argument= input("what do you have to look for?")
 time.sleep(1)
@@ -22,6 +22,6 @@ for i in split(argument):
 print("My research ends here!")
 time.sleep(1)
 print(" ")
-print("-an idea of parieeeh-")
+print("-an idea of gparietti-")
 time.sleep(2)
-#parieeeh idea's
+#gparietti idea's
